@@ -1,0 +1,9 @@
+mobile,name,plan,plan_type,city,area,account_status,last_bill_inr,usual_bill_inr,bill_due_date,data_left_gb,validity_end,customer_since
+9999000101,Aarav Sharma,Nimbus Postpaid 599,Postpaid,Delhi,Dwarka Sector 12,Active,1847,599,2026-10-15,,,2021-03-14
+9999000102,Priya Nair,Nimbus Unlimited 299,Prepaid,Bengaluru,Koramangala,Active,,,,1.2,2026-10-19,2019-07-02
+9999000103,Rohan Mehta,Nimbus Family 999,Postpaid,Mumbai,Andheri East,Active,999,999,2026-10-12,,,2018-11-23
+9999000104,Fatima Sheikh,Nimbus Unlimited 449,Prepaid,Delhi,Laxmi Nagar,Active,,,,0.0,2026-10-08,2022-01-09
+9999000105,Gurpreet Singh,Nimbus Postpaid 399,Postpaid,Chandigarh,Sector 35,Suspended - Non payment,1288,399,2026-09-28,,,2020-05-30
+9999000106,Ananya Iyer,Nimbus Unlimited 199,Prepaid,Chennai,T Nagar,Active,,,,3.5,2026-10-25,2023-08-17
+9999000107,Vikram Rao,Nimbus Business 1499,Postpaid,Hyderabad,HITEC City,Active,7420,1499,2026-10-20,,,2017-02-11
+9999000108,Meera Joshi,Nimbus Unlimited 299,Prepaid,Pune,Kothrud,SIM blocked - Lost SIM reported,,,,0.8,2026-10-30,2020-12-05

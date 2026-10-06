@@ -1,0 +1,18 @@
+[
+  {"ticket_id": "NT-260928-K7QP", "mobile": "9999000101", "category": "Technical", "sub_category": "Call drops",
+   "description": "Customer reports frequent call drops at home in Dwarka for one week.", "priority": "Medium",
+   "status": "In progress", "created_at": "2026-09-28 11:05", "sla_due": "2026-09-30 11:05",
+   "updates": [{"at": "2026-09-29 16:20", "note": "Field engineer assigned; signal survey scheduled."}], "channel": "Chatbot", "escalated": false},
+  {"ticket_id": "NT-260915-M3XD", "mobile": "9999000103", "category": "Billing", "sub_category": "Roaming charges",
+   "description": "Customer disputes Rs 640 international roaming charge although roaming was not activated.", "priority": "Medium",
+   "status": "Resolved", "created_at": "2026-09-15 09:40", "sla_due": "2026-09-18 09:40",
+   "updates": [{"at": "2026-09-17 13:10", "note": "Charge found valid for 2 days of usage in Dubai; customer informed with usage log."}], "channel": "Call centre", "escalated": false},
+  {"ticket_id": "NT-261002-R9TB", "mobile": "9999000102", "category": "Other", "sub_category": "Recharge not credited",
+   "description": "Recharge of Rs 299 via UPI debited but plan not activated.", "priority": "High",
+   "status": "Open", "created_at": "2026-10-02 19:55", "sla_due": "2026-10-03 19:55",
+   "updates": [], "channel": "App", "escalated": false},
+  {"ticket_id": "NT-260920-Z4HN", "mobile": "9999000105", "category": "Billing", "sub_category": "Late payment fee",
+   "description": "Customer requests waiver of late payment fee citing hospitalisation.", "priority": "Low",
+   "status": "Escalated - Human agent", "created_at": "2026-09-20 15:12", "sla_due": "2026-09-23 15:12",
+   "updates": [{"at": "2026-09-21 10:00", "note": "Waiver requests need supervisor approval; forwarded to billing supervisor."}], "channel": "Chatbot", "escalated": true}
+]

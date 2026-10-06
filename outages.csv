@@ -1,0 +1,4 @@
+city,area,issue,started,eta,status
+Delhi,Dwarka,4G/5G data slow due to fibre cut on backhaul link,2026-10-06 08:30,2026-10-06 20:00,Repair in progress
+Bengaluru,Koramangala,Intermittent call drops - tower maintenance,2026-10-05 22:00,2026-10-07 06:00,Planned maintenance
+Mumbai,Andheri,No outage,,,

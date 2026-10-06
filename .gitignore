@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+data/tickets_runtime.json
+__pycache__/
+.pytest_cache/
